@@ -1,12 +1,45 @@
-- 👋 Hi, I’m @neeshantt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Nishant Thakur
 
-<!---
-neeshantt/neeshantt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BCA Student (2027) | Aspiring Data Scientist & Machine Learning Engineer
+
+## 🚀 About Me
+- 🌱 Currently learning Machine Learning, NLP and Data Science
+- 💻 Strong in Python, SQL and OOP
+- 📊 Interested in AI, Machine Learning and Data Analytics
+- 🎯 Goal: Become a Data Scientist
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- SQL
+
+### Machine Learning
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- NLP
+
+### Tools
+- Git
+- GitHub
+- Streamlit
+- VS Code
+
+## 📌 Featured Projects
+
+### 📩 Spam SMS Detection
+- NLP-based spam classifier
+- TF-IDF Vectorizer
+- Multinomial Naive Bayes
+- Streamlit Web App
+
+
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/neeshantt
+- LinkedIn: Add your LinkedIn profile here
+
+⭐ Thanks for visiting my profile!
