@@ -40,6 +40,6 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/neeshantt
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/nishant-thakur-8926582b2
 
 ⭐ Thanks for visiting my profile!
